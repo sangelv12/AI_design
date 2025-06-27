@@ -1,0 +1,6 @@
+{
+  "name": "UX/UI Design Sprint Assistant",
+  "description": "A web application to assist in key phases of a UX/UI design sprint, using AI to facilitate ideation, research, definition, decision-making, prototyping, and testing.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
